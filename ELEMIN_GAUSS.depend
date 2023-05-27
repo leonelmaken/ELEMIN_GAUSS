@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622726971 source:c:\users\hp15\documents\elemin_gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1622725716 source:c:\users\hp15\documents\elemin_gauss\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1622725733 c:\users\hp15\documents\elemin_gauss\fonction.h
+
